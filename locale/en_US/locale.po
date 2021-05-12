@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-21T16:00:00+00:00\n"
+"PO-Revision-Date: 2021-05-21T16:00:00+00:00\n"
+"Language: \n"
+
+msgid "plugins.themes.testojsthemefileupload.name"
+msgstr "test ojs theme file upload Theme"
+
+msgid "plugins.themes.testojsthemefileupload.description"
+msgstr "Test if file Upload is valid"
+
+msgid "plugins.themes.testojsthemefileupload.option.headerImg.label"
+msgstr "Upload an header image"
+
+msgid "plugins.themes.testojsthemefileupload.option.headerImg.description"
+msgstr "Test upload an image"
